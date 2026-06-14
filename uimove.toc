@@ -1,0 +1,9 @@
+﻿## Interface: 30300
+## Title: !|cff00ffffAddon Naer|r |cff33ff33[UIMove]|r
+## Notes: Permite mover los elementos de la interfaz, similar a ElvUI.
+## Author: Zorrorojo/Miabuelita (Guild Sedentarios)
+## Version: 1.0
+## SavedVariables: UIMoveDB
+## X-Part-Of: !|cff00ffffAddon Naer|r
+
+uimove.lua
